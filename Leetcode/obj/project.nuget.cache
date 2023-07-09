@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xLobzEUKX5O9H4pPPHfOTzZTV/MrGoMI/hekvf47QUa443AiA3xDZmeoW0V5uFsdOjVdU6Se5l+AdcxO6UG+og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emmag\\source\\repos\\Leetcode\\Leetcode\\Leetcode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emmag\\.nuget\\packages\\system.reactive\\6.0.0\\system.reactive.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
